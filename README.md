@@ -1,6 +1,6 @@
 # Diabetes-Prediction
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective is to predict based on diagnostic measurements whether a patient has diabetes.
-- There following features of the dataset:
+- There are following features of the dataset:
 1. Pregnancies: Number of times pregnant
 2. Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 3. BloodPressure: Diastolic blood pressure (mm Hg)
