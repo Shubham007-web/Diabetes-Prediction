@@ -10,4 +10,4 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 7. DiabetesPedigreeFunction: Diabetes pedigree function
 8. Age: Age (years)
 - **Outcome (Target)**
-- Outcome: Class variable (0 or 1)
+- Outcome: Class variable (0 or 1).
